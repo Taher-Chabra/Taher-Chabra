@@ -16,6 +16,7 @@ Welcome to my GitHub! I'm a full-stack developer, driven by curiosity, a love fo
 
 - **Languages**: HTML, CSS, JavaScript, TypeScript, C++
 - **Frameworks**: React.js, RTK, Next.js, Node.js
+- **Databases**: MongoDB, MySQL
 - **Tools**: VSCode, Postman, Atlas
 - **Cloud**: AWS
 
