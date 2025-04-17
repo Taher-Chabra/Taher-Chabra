@@ -7,17 +7,17 @@ Welcome to my GitHub! I'm a full-stack developer, driven by curiosity, a love fo
 ## 🚀 About Me
 
 - 💻 **Full-stack Developer**: I enjoy building applications and tackling real-world challenges with clean and efficient code.
-- 🌱 **Lifelong Learner**: Currently diving deeper into [topics you're passionate about, e.g., machine learning, cloud computing].
+- 🌱 **Lifelong Learner**: Currently diving deeper into Backend Development, System Design and CI/CD pipelines.
 - 💡 **Problem Solver**: I enjoy solving complex problems and exploring new technologies.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages**: [HTML, CSS, JavaScript, TypeScript, C++]
-- **Frameworks**: [React.js, RTK, Next.js, Node.js]
-- **Tools**: [VSCode, Postman, Atlas]
-- **Cloud**: [AWS]
+- **Languages**: HTML, CSS, JavaScript, TypeScript, C++
+- **Frameworks**: React.js, RTK, Next.js, Node.js
+- **Tools**: VSCode, Postman, Atlas
+- **Cloud**: AWS
 
 ---
 
