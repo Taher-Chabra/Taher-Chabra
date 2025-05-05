@@ -55,9 +55,9 @@ Welcome to my GitHub! I'm a full-stack developer, driven by curiosity, a love fo
 
 ## 🌐 Connect with Me
 
-- 🐦 **Twitter**: [Taher](https://twitter.com/x_taherchabra)
-- 💼 **LinkedIn**: [Taher Chabra](https://linkedin.com/in/taher-chabra)
-- 🌐 **Portfolio**: [taherchabra.tech](https://taherchabra.tech)
+- 🐦 **[Twitter](https://twitter.com/x_taherchabra)**
+- 💼 **[LinkedIn](https://linkedin.com/in/taher-chabra)**
+- 🌐 **[Portfolio](https://taherchabra.tech)**
 
 ---
 
